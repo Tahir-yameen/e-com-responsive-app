@@ -1,7 +1,7 @@
 import CategoryList from "@/components/CategoryList";
 import ProductList from "@/components/ProductList";
 import Slider from "@/components/Slider";
-import Image from "next/image";
+// import Image from "next/image";
 
 const Homepage = () => {
   return (
@@ -21,6 +21,6 @@ const Homepage = () => {
       </div>
     </div>
   );
-}
+};
 
 export default Homepage
